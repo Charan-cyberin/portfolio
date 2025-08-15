@@ -119,7 +119,7 @@ portfolio/
 
 Connect with me via LinkedIn or GitHub using the links on the website.
 
----**linkedin**: https://www.linkedin.com/in/charantejapentakota/
+- **linkedin**: https://www.linkedin.com/in/charantejapentakota/
 
 ##  License
 
