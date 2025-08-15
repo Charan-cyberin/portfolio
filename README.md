@@ -115,13 +115,11 @@ portfolio/
 
 ##  Contact
 
-- **Phone**: +91-9705198826  
 - **Email**: charantejapentakota@gmail.com  
-- **Location**: Anakapalle, Andhra Pradesh, India  
 
 Connect with me via LinkedIn or GitHub using the links on the website.
 
----
+---**linkedin**: https://www.linkedin.com/in/charantejapentakota/
 
 ##  License
 
